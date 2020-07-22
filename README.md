@@ -1,6 +1,7 @@
 # Twitch Bot Robot
 
 > The code for this bot is home cooked specifically for this use case
+> Find the robot at https://www.twitch.tv/spncllian
 
 ## Summary
 
